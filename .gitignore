@@ -9,14 +9,3 @@ log_analysis_*.txt
 # OS / Editor noise
 __pycache__/
 .vscode/
-# Ignore generated output files
-outputs/
-
-# Ignore reports
-*_report.txt
-network_audit_*.txt
-log_analysis_*.txt
-
-# OS / Editor noise
-__pycache__/
-.vscode/
